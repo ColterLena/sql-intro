@@ -55,7 +55,7 @@ Reuse the same repository from that assignment for this assignment. Add the new 
 - Work with foreign keys
 - Craft queries that join tables
 
-### Explorer Mode
+### Requirements
 
 - [ ] In your `CompanyDatabase`, add a table named `Departments` with the following columns:
   - `Id` as a primary key
