@@ -1,4 +1,4 @@
-# Intro to SQL
+# Intro to SQL: A SQL Exercise
 Every application uses data in some way. In many of our applications we will be
 storing information in a database. In this assignment we will be practicing
 using SQL databases.
